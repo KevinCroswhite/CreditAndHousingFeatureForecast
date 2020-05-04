@@ -3,7 +3,7 @@
 ####                                          #####
 ####      Kevin Croswhite                     #####
 ####      Economics 835                       #####
-####      Econometric Methhods II             #####
+####      Econometric Methods II              #####
 ###       Term Paper                          #####
 ####      University of Wisconsin - Milwaukee #####
 ####                                          #####
